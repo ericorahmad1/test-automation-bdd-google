@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.577 s <<< FAILURE! - in TestRunner.TestRunner
+initializationError(TestRunner.TestRunner)  Time elapsed: 0.013 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: E:\Personals\Portofolio\Test automation bdd google\test-automation-google\src\test\resources\Features
+
